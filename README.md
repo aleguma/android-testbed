@@ -1,6 +1,6 @@
 # Android TestBed
 
-Logs of the benchmarking of a set of Android apps in different devices.
+Logs of the benchmarking of the same set of Android apps in different Android devices (i.e., 2 emulators and 3 real devices).
 
 
 If you have any issues or requests that I can be of any help with, please email alejandro.guerra@taltech.ee
